@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="addtask">Add Task</string>
+    <string name="default_web_client_id">1019720106134-31b92g2uppbvt1j4ekppj67ai1u27qof.apps.googleusercontent.com</string>
+    <string name="my_notes">MY TASK</string>
+    <string name="todo">TODO</string>
+</resources>
